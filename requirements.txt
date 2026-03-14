@@ -1,6 +1,7 @@
 sudo apt update
-sudo apt install python3-full python3-venv python3-pip portaudio19-dev python3-pyaudio 
-espeak-ng alsa-utils pocketsphinx
+sudo apt install python3-full python3-venv python3-pip portaudio19-dev sudo apt install python3-pyaudio espeak-ng alsa-utils pocketsphinx
+
+curl -L https://github.com/Vijesh1407/nlip_lab/archive/refs/heads/main.zip -o nlip_lab.zip
 
 nltk
 scikit-learn
