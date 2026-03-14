@@ -1,0 +1,14 @@
+sudo apt update
+sudo apt install python3-full python3-venv python3-pip portaudio19-dev python3-pyaudio 
+espeak-ng alsa-utils pocketsphinx
+
+nltk
+scikit-learn
+opencv-python
+numpy
+matplotlib
+tensorflow
+SpeechRecognition
+pyttsx3
+pyaudio
+pocketsphinx
